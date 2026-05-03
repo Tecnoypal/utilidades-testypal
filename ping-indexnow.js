@@ -2,8 +2,8 @@
 const apiUrl = 'https://www.bing.com/indexnow';
 const payload = {
   host: 'testypal.tecnoypal.com',
-  key: '12009ad800434b688a6984596a8d3b44',
-  keyLocation: 'https://testypal.tecnoypal.com/12009ad800434b688a6984596a8d3b44.txt',
+  key: 'TU_CLAVE_INDEXNOW_AQUI',
+  keyLocation: 'https://testypal.tecnoypal.com/TU_CLAVE_INDEXNOW_AQUI.txt',
   urlList: [
     'https://testypal.tecnoypal.com/',
     'https://testypal.tecnoypal.com/oposiciones',
